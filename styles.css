@@ -3,6 +3,16 @@
 body{
 
 background:linear-gradient(4deg, red, orange);
+margin:0%;
+font-family: "Open Sans", sans-serif;
+margin-bottom: 80px;
+}
 
+header{
+    border-bottom: solid 2px  rgb(14, 11, 11);
+    font-size: 30px;
+    padding: 05px;
+    background: rgb(19, 14, 15);
+    display: flex;
 }
 
