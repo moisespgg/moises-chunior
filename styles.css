@@ -12,7 +12,7 @@ header{
     border-bottom: solid 2px  rgb(14, 11, 11);
     font-size: 30px;
     padding: 05px;
-    background: rgb(26, 17, 10);
+    background: repeating-linear-gradient(24deg, black, rgb(249, 98, 5) 100px);
     display: flex;
     color: orange;
 }
