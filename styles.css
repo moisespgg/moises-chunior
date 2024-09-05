@@ -17,3 +17,20 @@ header{
     color: orange;
 }
 
+section{
+    
+    background: black;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 90;
+    padding-top: 90px;
+}
+
+.textodoladodovd{
+    margin-right: 5%;
+}
+
+p{
+    font-size: 20px
+}
